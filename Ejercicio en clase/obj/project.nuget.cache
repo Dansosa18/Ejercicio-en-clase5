@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZbhMWmDma0xr/oLlofn9OFOsv393/k1yBt9mfsDsO4rxAyU7LGBEBNhN937vo3JE4IeWIq1LhswCHXGWeqDzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Documentos\\Universidad\\Tercer Semestre\\Ejercicio clase 2\\Ejercicio en clase\\Ejercicio en clase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

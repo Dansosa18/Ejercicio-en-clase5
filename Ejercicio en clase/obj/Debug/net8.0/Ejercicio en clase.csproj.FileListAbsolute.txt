@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\bin\Debug\net8.0\Ejercicio en clase.exe
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\bin\Debug\net8.0\Ejercicio en clase.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\bin\Debug\net8.0\Ejercicio en clase.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\bin\Debug\net8.0\Ejercicio en clase.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\bin\Debug\net8.0\Ejercicio en clase.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\obj\Debug\net8.0\Ejercicio en clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\obj\Debug\net8.0\Ejercicio en clase.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\obj\Debug\net8.0\Ejercicio en clase.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\obj\Debug\net8.0\Ejercicio en clase.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\obj\Debug\net8.0\Ejercicio en clase.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\obj\Debug\net8.0\refint\Ejercicio en clase.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\obj\Debug\net8.0\Ejercicio en clase.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\obj\Debug\net8.0\Ejercicio en clase.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 2\Ejercicio en clase\obj\Debug\net8.0\ref\Ejercicio en clase.dll
